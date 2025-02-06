@@ -7,3 +7,4 @@
 4. Doomsday
 5. Deku
 6. Deadshot
+7. Bakugo
